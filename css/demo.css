@@ -180,9 +180,6 @@ a:focus {
 }
 
 .content--related {
-	text-align: center;
-	align-content: center;
-	justify-content: center;
 	padding: 0 2em;
 	font-size: 0.85em;
 }
